@@ -288,8 +288,7 @@ better sense of how the test is written.
 
 [jest]: https://jestjs.io/
 [jest-docs]: https://jestjs.io/docs/getting-started
-[react testing library]:
-  https://testing-library.com/docs/react-testing-library/intro
+[react testing library]: https://testing-library.com/docs/react-testing-library/intro
 [jest-dom]: https://testing-library.com/docs/ecosystem-jest-dom
 [query methods]: https://testing-library.com/docs/queries/about#priority
 [jsdom]: https://github.com/jsdom/jsdom
